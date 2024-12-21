@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028660736780",
+    "project_id": "lectro-459c7",
+    "storage_bucket": "lectro-459c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028660736780:android:2fa53628f3fc053f9c8f29",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBoQu3TR1SolZvg5w3vfuVDonXCxUEdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
