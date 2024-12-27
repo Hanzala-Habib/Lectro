@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:lectro/Constants/Tabs/lectures_tabs.dart';
+import 'package:lectro/Widgets//Tabs/lectures_tabs.dart';
 
 class bottomNavBar extends StatefulWidget {
   const bottomNavBar({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:lectro/Constants/Avatar/Avatar_circle.dart';
+import 'package:lectro/Widgets//Avatar/Avatar_circle.dart';
 
-import '../../Constants/TextFields/text_serach_field.dart';
-import '../../Constants/bottomNavBar.dart';
+import '../../Widgets//TextFields/text_serach_field.dart';
+import '../../Widgets//bottomNavBar.dart';
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});
 
@@ -40,10 +40,6 @@ class MainScreen extends StatelessWidget {
 
                         ],
                       ),
-                      Padding(
-                        padding: EdgeInsets.all(12.0),
-                        child: TextSearchField(),
-                      )
                     ],
                   ),
                 ),

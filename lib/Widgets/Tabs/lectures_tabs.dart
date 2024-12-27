@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lectro/Constants/list_card/lectures_list.dart';
+import 'package:lectro/Widgets//list_card/lectures_list.dart';
 
 class LecturesTabs extends StatefulWidget {
   const LecturesTabs({super.key});
