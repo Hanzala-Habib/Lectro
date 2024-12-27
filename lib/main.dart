@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lectro/Screens/Login/LoginScreen.dart';
 import 'package:lectro/Screens/Signup/conditional_sign_up.dart';
 import 'package:lectro/Screens/main_lectures_screen/main_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:SignUpScreen(),
+      home:Loginscreen(),
     );
   }
 }
